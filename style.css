@@ -82,10 +82,10 @@ footer p {
 }
 .sobre{
     background-color:pink;
-    color:pink;
+    color:white;
 }
 .experiencias{
-    background-color: color;
+    background-color: white;
     color:pink;
 }
 /* --- Media Queries: Estilos para telas menores (smartphones e tablets) --- */
